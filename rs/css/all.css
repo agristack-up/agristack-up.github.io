@@ -585,8 +585,8 @@ header {
     font-size: 1.5rem;
     text-transform: uppercase;
     font-weight: bold;
-    /* filter: drop-shadow(0 0 1px #0457a7) drop-shadow(1px 1px 0 #0457a7) drop-shadow(-1px 1px 0 #0457a7) drop-shadow(1px -1px 0 #0457a7)drop-shadow(-1px -1px 0 #0457a7); */
-    filter: drop-shadow(0 0 3px #0457a7) drop-shadow(3px 3px 0 #0457a7) drop-shadow(-3px 3px 0 #0457a7) drop-shadow(3px -3px 0 #0457a7)drop-shadow(-3px -3px 0 #0457a7);
+    /* filter: drop-shadow(0 0 1px #0c0d17) drop-shadow(1px 1px 0 #0c0d17) drop-shadow(-1px 1px 0 #0c0d17) drop-shadow(1px -1px 0 #0c0d17)drop-shadow(-1px -1px 0 #0c0d17); */
+    filter: drop-shadow(0 0 3px #0c0d17) drop-shadow(3px 3px 0 #0c0d17) drop-shadow(-3px 3px 0 #0c0d17) drop-shadow(3px -3px 0 #0c0d17)drop-shadow(-3px -3px 0 #0c0d17);
 }
 
 .navigation>ul {
@@ -726,7 +726,7 @@ header {
     height: 100%;
     border-radius: 8px;
     overflow: hidden;
-    background: #0457a7 url(../imgs/uk-loading-game.gif) center no-repeat;
+    background: #0c0d17 url(../imgs/uk-loading-game.gif) center no-repeat;
     background-size: 40px 40px;
     position: relative;
 }
