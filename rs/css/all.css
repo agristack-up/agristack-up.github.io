@@ -515,7 +515,7 @@ input, button {
     grid-auto-rows: 117px;
     grid-auto-flow: row dense;
     justify-content: space-evenly;
-    background: #003d78;
+    background: #030c14;
     padding:15px;
 }
 
@@ -678,7 +678,7 @@ header {
 }
 
 .nav-mobile-controler>ul>li {
-    background-color: #003d78;
+    background-color: #030c14;
     border-bottom: 1px solid #0077e9;
     padding: 10px 15px;
 }
@@ -695,7 +695,7 @@ header {
 /*game_item*/
 .uk-p10 {
     padding: 15px;
-    background: #003d78;
+    background: #030c14;
     border: 1px solid #0077e9;
 }
 
