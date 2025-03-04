@@ -1,7 +1,7 @@
 async function loadGame() {
     try {
         // Encoded JSON file URL
-        const jsonUrl = atob("https://niksidbro.github.io/nkboss/games.json");
+        const jsonUrl = atob("https://games-maza.pages.dev/games.json");
         
         // JSON file fetch karo
         const response = await fetch(jsonUrl);
